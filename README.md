@@ -1,2 +1,1 @@
-# experiment
-exploring github
+pachipulsu
